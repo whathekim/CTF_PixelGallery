@@ -58,8 +58,8 @@ WordPress, FTP, SSH 등 실제 웹 환경과 유사하게 구축하였으며, �
 
 | 이름       | GitHub ID                                      | 담당 역할                                                             |
 |------------|------------------------------------------------|------------------------------------------------------------------------|
-| 김정현     | [JeongHyeon96](https://github.com/JeongHyeon96) | WordPress, FTP, SQLi, 웹쉘 취약점 환경 구성                           |
-| 조범근     | [whathekim](https://github.com/whathekim)       | 취약 웹사이트 제작, hydra 기반 공격 환경 구성, 전체 시나리오 설계 및 워크스루 문서 작성 |
+| 조범근     | [whathekim](https://github.com/whathekim) | 취약 웹사이트 제작, hydra 기반 공격 환경 구성, 전체 시나리오 설계 및 워크스루 문서 작성                           |
+| 김정현     | [JeongHyeon96](https://github.com/JeongHyeon96)       | WordPress, FTP, SQLi, 웹쉘 취약점 환경 구성 |
 | 김병욱     | [byungwook99](https://github.com/byungwook99)   | SSH 환경 설계 및 권한 상승 트리거 구성                                |
 
 ---
@@ -79,31 +79,6 @@ WordPress, FTP, SSH 등 실제 웹 환경과 유사하게 구축하였으며, �
 4. 가상머신 부팅 후 `nmap`으로 포트 및 서비스 스캐닝
 
 ---
-
-## 🗂️ 디렉토리 구조
-
-```bash
-CTF_PixelGallery_TeamEN/
-├── README.md
-├── docs/
-│   ├── architecture.png
-│   ├── team_roles.md
-│   └── walkthroughs/
-├── src/
-│   ├── wordpress/
-│   ├── ftp_server/
-│   └── ssh_challenges/
-├── api/
-│   └── check.php
-├── html/
-├── assets/
-│   └── css/
-├── LICENSE
-🧾 워크스루 문서
-전체 시나리오에 대한 상세 풀이 및 접근 방법은 다음 문서에 정리되어 있습니다.
-👉 워크스루 다운로드 (Word 파일)
-
-🛠️ 사용 기술 스택
 
 
 
