@@ -9,6 +9,17 @@
 
 ## 🎯 프로젝트 개요
 
+<p float="left">
+  <img src="https://github.com/whathekim/CTF_PixelGallery/blob/main/walkthrough%2001.png" width="200" />
+  <img src="https://github.com/whathekim/CTF_PixelGallery/blob/main/walkthrough%2002.png" width="200" />
+  <img src="https://github.com/whathekim/CTF_PixelGallery/blob/main/walkthrough%2003.png" width="200" />
+  <img src="https://github.com/whathekim/CTF_PixelGallery/blob/main/walkthrough%2004.png" width="200" />
+  <img src="https://github.com/whathekim/CTF_PixelGallery/blob/main/walkthrough%2005.png" width="200" />
+  <img src="https://github.com/whathekim/CTF_PixelGallery/blob/main/walkthrough%2006.png" width="200" />
+  <img src="https://github.com/whathekim/CTF_PixelGallery/blob/main/walkthrough%2007.png" width="200" />
+  <img src="https://github.com/whathekim/CTF_PixelGallery/blob/main/walkthrough%2008.png" width="200" />
+</p>
+
 **Pixel Gallery**는 다양한 웹 취약점을 학습할 수 있도록 구성된 **CTF(해킹 문제 풀이)** 기반 워게임 프로젝트입니다.  
 WordPress, FTP, SSH 등 실제 웹 환경과 유사하게 구축하였으며, 시나리오 기반으로 문제를 해결하며 **실전 대응 능력**을 향상시킬 수 있습니다.
 
@@ -82,6 +93,9 @@ WordPress, FTP, SSH 등 실제 웹 환경과 유사하게 구축하였으며, �
 
 ---
 
+## 📝 워크스루 문서
 
+문제별 상세 풀이가 포함된 워크스루 문서는 아래 링크에서 확인할 수 있습니다:
+👉 [Walkthrough 보기 및 다운로드 (pdf 파일)](https://github.com/whathekim/CTF_PixelGallery/blob/main/EN_CTF%20walkthrough.pdf)
 
 
