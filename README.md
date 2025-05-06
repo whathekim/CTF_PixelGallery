@@ -1,5 +1,7 @@
 # 🕶️ CTF 프로젝트: Pixel Gallery
 
+![CTFmain](CTF_PixelGallery_main.gif)
+
 > 실제 웹 해킹 시나리오 기반의 워게임 플랫폼  
 > Team EN 제작 · 정보보안 교육 및 실습용 프로젝트
 
