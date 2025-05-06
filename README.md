@@ -80,7 +80,7 @@ WordPress, FTP, SSH 등 실제 웹 환경과 유사하게 구축하였으며, �
 ## 💽 가상머신 다운로드
 
 워크게임 환경 테스트용 OVA 가상머신은 아래 링크에서 확인 가능합니다.  
-👉 [PixelGallery_VM.ova 다운로드](https://drive.google.com/file/d/1_gizfkVfZi1t7p3K2RI9asCyjgrrKsUH/view?usp=sharing)
+👉 [PixelGallery_VM.ova 다운로드](https://drive.google.com/file/d/1_gizfkVfZi1t7p3K2RI9asCyjgrrKsUH/view)
 
 ---
 
